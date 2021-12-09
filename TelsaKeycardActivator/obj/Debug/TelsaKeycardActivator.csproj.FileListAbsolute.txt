@@ -1,0 +1,15 @@
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\TelsaKeycardActivator.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\TelsaKeycardActivator.pdb
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\0Harmony.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\Assembly-CSharp.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\Exiled.API.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\Exiled.Events.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\Exiled.Permissions.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\YamlDotNet.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\System.Memory.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\System.Buffers.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\obj\Debug\TelsaKeycardActivator.csproj.AssemblyReference.cache
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\obj\Debug\TelsaKeycardActivator.csproj.CoreCompileInputs.cache
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\obj\Debug\TelsaKeycardActivator.dll
+C:\Users\sierr\source\repos\TelsaKeycardActivator\TelsaKeycardActivator\obj\Debug\TelsaKeycardActivator.pdb
